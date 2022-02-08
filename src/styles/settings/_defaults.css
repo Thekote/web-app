@@ -1,6 +1,6 @@
 :root {
   /* Fonts */
-  --font-montserrat: 'Montserrat';
+  --font-montserrat: 'Montserrat', sans-serif;
 
   /* Base */
   --base-font-size: 16px;
