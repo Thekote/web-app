@@ -1,0 +1,11 @@
+:root {
+  /* Fonts */
+  --font-montserrat: 'Montserrat';
+
+  /* Base */
+  --base-font-size: 16px;
+
+  /* Spacing */
+  --base-spacing: 16px;
+  --word-spacing: 10px;
+}
