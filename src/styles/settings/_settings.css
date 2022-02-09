@@ -1,4 +1,5 @@
 :root {
+  /* Colors */
   --weak-yellow: #ffe21d;
   --strong-yellow: #ffd21d;
   --weak-blue: #24afff;
@@ -6,4 +7,14 @@
   --red-alert: #f26c6c;
   --green-alert: #27b667;
   --main-bg: #f5f5dc;
+
+  /* Fonts */
+  --font-montserrat: 'Montserrat', sans-serif;
+
+  /* Base */
+  --base-font-size: 16px;
+
+  /* Spacing */
+  --base-spacing: 16px;
+  --word-spacing: 10px;
 }
