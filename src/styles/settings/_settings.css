@@ -2,10 +2,15 @@
   /* Colors */
   --weak-yellow: #ffe21d;
   --strong-yellow: #ffd21d;
+  --dark-yellow: #c2a11d;
   --weak-blue: #24afff;
   --strong-blue: #248bff;
-  --red-alert: #f26c6c;
-  --green-alert: #27b667;
+  --dark-blue: #0e03a3;
+  --weak-red: #f26c6c;
+  --strong-red: #f22e2e;
+  --weak-green: #27b667;
+  --strong-green: #005928;
+  --white-floral: #fffaf0;
   --main-bg: #f5f5dc;
 
   /* Fonts */
@@ -16,5 +21,8 @@
 
   /* Spacing */
   --base-spacing: 16px;
-  --word-spacing: 10px;
+  --word-spacing: 1px;
+
+  /* Opacity */
+  --base-opacity: 0.6;
 }
