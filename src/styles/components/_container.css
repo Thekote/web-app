@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 1em 1em 3em;
+}
+
+.container--button {
+  justify-content: space-around;
+  padding-bottom: 0;
+}
+
+.container--input {
+  justify-content: space-evenly;
+}
